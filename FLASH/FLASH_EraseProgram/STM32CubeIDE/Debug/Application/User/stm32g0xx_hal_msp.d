@@ -1,0 +1,60 @@
+Application/User/stm32g0xx_hal_msp.o: \
+ C:/Users/User/Downloads/Lecture_notes/ngv-main/ngv-main/STM32CubeG0-master/STM32CubeG0-master/Projects/NUCLEO-G0B1RE/Examples/FLASH/FLASH_EraseProgram/Src/stm32g0xx_hal_msp.c \
+ ../../Inc/main.h \
+ C:/Users/User/Downloads/Lecture_notes/ngv-main/ngv-main/STM32CubeG0-master/STM32CubeG0-master/Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal.h \
+ ../../Inc/stm32g0xx_hal_conf.h \
+ C:/Users/User/Downloads/Lecture_notes/ngv-main/ngv-main/STM32CubeG0-master/STM32CubeG0-master/Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_rcc.h \
+ C:/Users/User/Downloads/Lecture_notes/ngv-main/ngv-main/STM32CubeG0-master/STM32CubeG0-master/Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_def.h \
+ C:/Users/User/Downloads/Lecture_notes/ngv-main/ngv-main/STM32CubeG0-master/STM32CubeG0-master/Drivers/CMSIS/Include/stm32g0xx.h \
+ C:/Users/User/Downloads/Lecture_notes/ngv-main/ngv-main/STM32CubeG0-master/STM32CubeG0-master/Drivers/CMSIS/Include/stm32g0b1xx.h \
+ C:/Users/User/Downloads/Lecture_notes/ngv-main/ngv-main/STM32CubeG0-master/STM32CubeG0-master/Drivers/CMSIS/Include/core_cm0plus.h \
+ C:/Users/User/Downloads/Lecture_notes/ngv-main/ngv-main/STM32CubeG0-master/STM32CubeG0-master/Drivers/CMSIS/Include/cmsis_version.h \
+ C:/Users/User/Downloads/Lecture_notes/ngv-main/ngv-main/STM32CubeG0-master/STM32CubeG0-master/Drivers/CMSIS/Include/cmsis_compiler.h \
+ C:/Users/User/Downloads/Lecture_notes/ngv-main/ngv-main/STM32CubeG0-master/STM32CubeG0-master/Drivers/CMSIS/Include/cmsis_gcc.h \
+ C:/Users/User/Downloads/Lecture_notes/ngv-main/ngv-main/STM32CubeG0-master/STM32CubeG0-master/Drivers/CMSIS/Include/mpu_armv7.h \
+ C:/Users/User/Downloads/Lecture_notes/ngv-main/ngv-main/STM32CubeG0-master/STM32CubeG0-master/Drivers/CMSIS/Include/system_stm32g0xx.h \
+ C:/Users/User/Downloads/Lecture_notes/ngv-main/ngv-main/STM32CubeG0-master/STM32CubeG0-master/Drivers/STM32G0xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h \
+ C:/Users/User/Downloads/Lecture_notes/ngv-main/ngv-main/STM32CubeG0-master/STM32CubeG0-master/Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_ll_rcc.h \
+ C:/Users/User/Downloads/Lecture_notes/ngv-main/ngv-main/STM32CubeG0-master/STM32CubeG0-master/Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_rcc_ex.h \
+ C:/Users/User/Downloads/Lecture_notes/ngv-main/ngv-main/STM32CubeG0-master/STM32CubeG0-master/Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_gpio.h \
+ C:/Users/User/Downloads/Lecture_notes/ngv-main/ngv-main/STM32CubeG0-master/STM32CubeG0-master/Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_gpio_ex.h \
+ C:/Users/User/Downloads/Lecture_notes/ngv-main/ngv-main/STM32CubeG0-master/STM32CubeG0-master/Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_dma.h \
+ C:/Users/User/Downloads/Lecture_notes/ngv-main/ngv-main/STM32CubeG0-master/STM32CubeG0-master/Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_ll_dma.h \
+ C:/Users/User/Downloads/Lecture_notes/ngv-main/ngv-main/STM32CubeG0-master/STM32CubeG0-master/Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_ll_dmamux.h \
+ C:/Users/User/Downloads/Lecture_notes/ngv-main/ngv-main/STM32CubeG0-master/STM32CubeG0-master/Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_dma_ex.h \
+ C:/Users/User/Downloads/Lecture_notes/ngv-main/ngv-main/STM32CubeG0-master/STM32CubeG0-master/Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_cortex.h \
+ C:/Users/User/Downloads/Lecture_notes/ngv-main/ngv-main/STM32CubeG0-master/STM32CubeG0-master/Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_exti.h \
+ C:/Users/User/Downloads/Lecture_notes/ngv-main/ngv-main/STM32CubeG0-master/STM32CubeG0-master/Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_flash.h \
+ C:/Users/User/Downloads/Lecture_notes/ngv-main/ngv-main/STM32CubeG0-master/STM32CubeG0-master/Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_flash_ex.h \
+ C:/Users/User/Downloads/Lecture_notes/ngv-main/ngv-main/STM32CubeG0-master/STM32CubeG0-master/Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_pwr.h \
+ C:/Users/User/Downloads/Lecture_notes/ngv-main/ngv-main/STM32CubeG0-master/STM32CubeG0-master/Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_pwr_ex.h \
+ C:/Users/User/Downloads/Lecture_notes/ngv-main/ngv-main/STM32CubeG0-master/STM32CubeG0-master/Drivers/BSP/STM32G0xx_Nucleo/stm32g0xx_nucleo.h
+../../Inc/main.h:
+C:/Users/User/Downloads/Lecture_notes/ngv-main/ngv-main/STM32CubeG0-master/STM32CubeG0-master/Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal.h:
+../../Inc/stm32g0xx_hal_conf.h:
+C:/Users/User/Downloads/Lecture_notes/ngv-main/ngv-main/STM32CubeG0-master/STM32CubeG0-master/Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_rcc.h:
+C:/Users/User/Downloads/Lecture_notes/ngv-main/ngv-main/STM32CubeG0-master/STM32CubeG0-master/Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_def.h:
+C:/Users/User/Downloads/Lecture_notes/ngv-main/ngv-main/STM32CubeG0-master/STM32CubeG0-master/Drivers/CMSIS/Include/stm32g0xx.h:
+C:/Users/User/Downloads/Lecture_notes/ngv-main/ngv-main/STM32CubeG0-master/STM32CubeG0-master/Drivers/CMSIS/Include/stm32g0b1xx.h:
+C:/Users/User/Downloads/Lecture_notes/ngv-main/ngv-main/STM32CubeG0-master/STM32CubeG0-master/Drivers/CMSIS/Include/core_cm0plus.h:
+C:/Users/User/Downloads/Lecture_notes/ngv-main/ngv-main/STM32CubeG0-master/STM32CubeG0-master/Drivers/CMSIS/Include/cmsis_version.h:
+C:/Users/User/Downloads/Lecture_notes/ngv-main/ngv-main/STM32CubeG0-master/STM32CubeG0-master/Drivers/CMSIS/Include/cmsis_compiler.h:
+C:/Users/User/Downloads/Lecture_notes/ngv-main/ngv-main/STM32CubeG0-master/STM32CubeG0-master/Drivers/CMSIS/Include/cmsis_gcc.h:
+C:/Users/User/Downloads/Lecture_notes/ngv-main/ngv-main/STM32CubeG0-master/STM32CubeG0-master/Drivers/CMSIS/Include/mpu_armv7.h:
+C:/Users/User/Downloads/Lecture_notes/ngv-main/ngv-main/STM32CubeG0-master/STM32CubeG0-master/Drivers/CMSIS/Include/system_stm32g0xx.h:
+C:/Users/User/Downloads/Lecture_notes/ngv-main/ngv-main/STM32CubeG0-master/STM32CubeG0-master/Drivers/STM32G0xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h:
+C:/Users/User/Downloads/Lecture_notes/ngv-main/ngv-main/STM32CubeG0-master/STM32CubeG0-master/Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_ll_rcc.h:
+C:/Users/User/Downloads/Lecture_notes/ngv-main/ngv-main/STM32CubeG0-master/STM32CubeG0-master/Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_rcc_ex.h:
+C:/Users/User/Downloads/Lecture_notes/ngv-main/ngv-main/STM32CubeG0-master/STM32CubeG0-master/Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_gpio.h:
+C:/Users/User/Downloads/Lecture_notes/ngv-main/ngv-main/STM32CubeG0-master/STM32CubeG0-master/Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_gpio_ex.h:
+C:/Users/User/Downloads/Lecture_notes/ngv-main/ngv-main/STM32CubeG0-master/STM32CubeG0-master/Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_dma.h:
+C:/Users/User/Downloads/Lecture_notes/ngv-main/ngv-main/STM32CubeG0-master/STM32CubeG0-master/Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_ll_dma.h:
+C:/Users/User/Downloads/Lecture_notes/ngv-main/ngv-main/STM32CubeG0-master/STM32CubeG0-master/Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_ll_dmamux.h:
+C:/Users/User/Downloads/Lecture_notes/ngv-main/ngv-main/STM32CubeG0-master/STM32CubeG0-master/Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_dma_ex.h:
+C:/Users/User/Downloads/Lecture_notes/ngv-main/ngv-main/STM32CubeG0-master/STM32CubeG0-master/Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_cortex.h:
+C:/Users/User/Downloads/Lecture_notes/ngv-main/ngv-main/STM32CubeG0-master/STM32CubeG0-master/Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_exti.h:
+C:/Users/User/Downloads/Lecture_notes/ngv-main/ngv-main/STM32CubeG0-master/STM32CubeG0-master/Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_flash.h:
+C:/Users/User/Downloads/Lecture_notes/ngv-main/ngv-main/STM32CubeG0-master/STM32CubeG0-master/Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_flash_ex.h:
+C:/Users/User/Downloads/Lecture_notes/ngv-main/ngv-main/STM32CubeG0-master/STM32CubeG0-master/Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_pwr.h:
+C:/Users/User/Downloads/Lecture_notes/ngv-main/ngv-main/STM32CubeG0-master/STM32CubeG0-master/Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_pwr_ex.h:
+C:/Users/User/Downloads/Lecture_notes/ngv-main/ngv-main/STM32CubeG0-master/STM32CubeG0-master/Drivers/BSP/STM32G0xx_Nucleo/stm32g0xx_nucleo.h:
